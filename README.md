@@ -3,6 +3,13 @@
 A modern WPF desktop application for students to manage their study modules, work hours, and self-study tracking. Built using C# and SQL Server, this app allows students to register/login, track academic load, and organize their semester effectively.
 
 ---
+## 🔗 Related Projects
+
+| Version | Repository | Platform |
+|--------|------------|----------|
+| 💻 **WPF Desktop App** | [SchoolAppPart2.1 (WPF)](https://github.com/Mabucado/SchoolAppPart2.1) | Windows Desktop (.NET 6, WPF) |
+| 🌐 **ASP.NET MVC Web App** | [SchoolAppPart3.3 (MVC)](https://github.com/Mabucado/SchoolAppPart3.3) | Web Application (.NET Core MVC) |
+
 
 ## 📌 Features
 
